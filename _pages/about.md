@@ -1,12 +1,10 @@
-"""
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Arpan Ghosal"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is my website. 
-
+This is my website. Here to share and encourage learning. 
