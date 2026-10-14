@@ -66,7 +66,6 @@ _Dropout layers_ reduce overfitting in a neural network by randomly dropping out
 
 _Batch normalisation layers_ are used to normalise the input data to each layer of the network, improving the stability and performance of the network. They work by normalising the output of each layer to have a mean of 0 and a standard deviation of 1, making it easier for the network to learn the appropriate weights and biases for each layer.
 
-<mark style="background: #FFB8EBA6;">ReLU -> f(x) = max(0,x)</mark>
 
 ---
 
