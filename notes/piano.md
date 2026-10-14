@@ -1,4 +1,11 @@
- ## Piano
+---
+title: "Piano"
+permalink: /pages/
+layout: single
+author_profile: true
+--- 
+
+## Piano
 
 Learning to play the piano is a rewarding endeavor that requires time, practice, and dedication. Here's a structured routine you can follow, tailored for beginners. Adjust the duration and frequency based on your own pace and time availability.
 
