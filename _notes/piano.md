@@ -1,9 +1,7 @@
 ---
-title: "Piano"
-permalink: /pages/
-layout: single
-author_profile: true
---- 
+title: "Learning Piano"
+date: 2026-10-14
+---
 
 ## Piano
 
