@@ -1,6 +1,7 @@
 ---
 title: "Notes"
+layout: collection
 permalink: /notes/
-layout: archive
 collection: notes
+author_profile: true
 ---
