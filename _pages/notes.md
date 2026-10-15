@@ -1,14 +1,24 @@
+
 ---
-layout: archive
 title: "Notes"
+layout: archive
 permalink: /notes/
 author_profile: true
 ---
 
+{% assign notes = site.notes | sort: "path" %}
 
-{% include base_path %}
+{% assign groups = notes | group_by_exp: "note", "note.path | split: '/' | first" %}
 
-{% for post in site.notes %}
-  {% include archive-single.html %}
+{% for group in groups %}
+  <h2>{{ group.name }}</h2>
+  <ul>
+  {% for note in group.items %}
+    <li>
+      <a href="{{ note.url | relative_url }}">
+        {{ note.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
 {% endfor %}
-
