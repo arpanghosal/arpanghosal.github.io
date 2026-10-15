@@ -1,1 +1,5 @@
- What's this? 15.10.2026
+---
+title: "Why a Scam?"
+layout: single
+--- 
+What's this? 15.10.2026
