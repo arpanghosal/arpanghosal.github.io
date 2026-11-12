@@ -1,5 +1,5 @@
 ---
-title: "biases.md"
+title: "Biases.md"
 date: 2026-11-12
 ---
 

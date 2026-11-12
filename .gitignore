@@ -2,6 +2,7 @@
 _site/
 .sass-cache/
 _notes/publish-note.py
+instruction.txt
 
 # Ignore the directory for local files during development
 local/
