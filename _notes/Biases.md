@@ -37,8 +37,11 @@ Cognitive biases and psychological effects which have been studied and are acade
 ###### Example: 
 When ppl see a reduced price, they tend to buy it even if the reduced price is still significantly higher. Or a manager can call off a project on previous poorer performance. 
 
-**Missing image:** Pasted image 20261112200616.png|450
+![](/images/notes/Pasted image 20261112200616.png)
+
 {source:https://behaviorfacts.com/}
+
+
 ##### 9. **Barnum effect:** 
 The Barnum Effect is a psychological phenomenon where individuals believe that vague, general statements about personality specifically apply to them, even though these statements are actually applicable to a wide range of people. This effect explains why people often find personal horoscopes, fortune-telling, and certain personality tests highly accurate and tailored to them personally, even though the statements are broad enough to apply to almost anyone.
 1. **General Statements:** The statements are crafted to be general and positive, making it easy for individuals to see themselves in them.
