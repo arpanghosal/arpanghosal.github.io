@@ -1,5 +1,5 @@
 ---
-title: "science_dump"
+title: "Science_dump"
 date: 2026-10-14
 ---
 
@@ -20,7 +20,7 @@ So, in essence they ARE, but not in practise.
 Permutative-free functions - sum, max, average etc.
 
 
-Check **Boltzman's H-theorem** 
+Check- Add **Boltzman's H-theorem** 
 
 
 
@@ -504,7 +504,7 @@ At low x, g(x) is more.
 ![](/images/notes/Pasted image 20251007170013.png)
 ![](/images/notes/Pasted image 20251007170759.png)
 
-
+<!--
 Check:
 - BD, AMD, JH, AK's theses - chatllm
 - guido bell lectures
@@ -536,6 +536,7 @@ Check:
 - Lhc phy, top phys, bjorken scaling, pdf, bsm, lagrangian, fitting, systematic impacts, higgs, all formulae, ml and bdt, basic master ques, calculate xsec, relativistic stuff, sensors and stat. uncertainties etc. for pixel sensors.
 - LHC beams and splashes etc. 
 - sipm & unfolding
+-->
 
 ### renormalizability versus regularization:
 ![](/images/notes/Pasted image 20251009133631.png)
